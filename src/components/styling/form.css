@@ -1,0 +1,18 @@
+.form-container-card {
+  position: absolute;
+  z-index: 10000;
+  background: white;
+  border: 1px solid lightgray;
+  margin: 5px;
+  border-radius: 3px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 30%;
+}
+
+.select-input {
+  padding: 5px;
+  border-radius: 2px;
+}
